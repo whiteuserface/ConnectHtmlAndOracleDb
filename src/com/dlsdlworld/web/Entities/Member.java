@@ -12,7 +12,7 @@ public class Member {
 	 * @param userNick
 	 */
 	public Member(String userId, String userPw, String userNick) {
-		super();
+// 		super();
 		this.userId = userId;
 		this.userPw = userPw;
 		this.userNick = userNick;
